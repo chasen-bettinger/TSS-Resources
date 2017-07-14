@@ -7,6 +7,10 @@ Apire, Power, Veriton, Extensa, Ferrari, TravelMate, Altos
     The BIOS on the Acer Altos 600 server uses the Ctrl+Alt+Esc key and the F1 key for advanced options.
     Older Acer computers may use also use the F1 or Ctrl+Alt+Esc keys to access BIOS.
 
+# ASUS
+
+        F2
+
 # Compaq
 
 Presario, Prolinea, Deskpro, Systempro, Portable
