@@ -2,6 +2,10 @@
 
 This repository contains a host of resources to be used when needing a recommendation, having trouble solving a problem or satiating your curiosity.
 
+# Table of Contents
+
+* [How To Make A Contribution](https://github.com/chasen-bettinger/TSS-Resources#tss-resources)
+
 # How To Make A Contribution
 
 ### 1. Fork this repository
