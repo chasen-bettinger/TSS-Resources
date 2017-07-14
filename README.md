@@ -18,9 +18,11 @@ The **_recommended_** editor is [atom](https://atom.io/) - this tutorial will be
 
 [GitHub Desktop Download](https://desktop.github.com/)
 
-## If this is **not** your first time, skip #4.
+## If this is _not_ your first time, skip #4.
 
-### 4. Clone Repository to Your Desktop Using GitHub Desktop
+### 4. Clone Your Fetched Repository to Your Desktop Using GitHub Desktop
+
+Go to your profile and click on your forked repository.
 
 ![Clone Repository GitHub Desktop](https://image.prntscr.com/image/qzXE1ikcTO_Gpxj2bWR3FA.png "Clone Repository GitHub Desktop")
 
@@ -28,7 +30,32 @@ The **_recommended_** editor is [atom](https://atom.io/) - this tutorial will be
 
 ![Paste Clone URL](https://image.prntscr.com/image/IObH93KmQdaYyJn-gwAgWA.png "Paste Clone URL")
 
-
-## 4. Open Folder in atom
+### 5. Open Folder in atom
 
 ![Opening Folder in Atom](https://image.prntscr.com/image/9cWgQKqNRaqVO0HcLCMqSg.png "Opening Folder In Atom")
+
+The folder should be in: ./Documents/Github/TSS-Resources
+
+### 6. Make a change!
+
+![Making a Change](https://image.prntscr.com/image/ZiiZfGlITVWe3cOwJLeTBQ.png "Make a Change")
+
+Don't forget to save your change when you are done!
+
+### 7. Ensure you are logged in to GitHub Desktop
+
+In GitHub Desktop: File > Options > Accounts
+
+### 8. Commit the Change
+
+![Commit the change!](https://image.prntscr.com/image/xQr6baPFQoedFxC05w81MA.png "Commit the Change")
+
+### 9. Push the Change
+
+![Push the change!](https://image.prntscr.com/image/e02GS7TIQlya0rTtbujCAg.png "Push the Change")
+
+### 10. Create a Pull Request
+
+![Create Pull Request](https://image.prntscr.com/image/_GrtnmPIQzOtDr-7MZ_aRg.png "Create Pull Request")
+
+## Congratulations you have now contributed to this project!
