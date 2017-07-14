@@ -6,8 +6,7 @@ This repository contains a host of resources to be used when needing a recommend
 
 1. Fork this repository
 
-Inline-style:
-![Forking a Repository](http://prntscr.com/fvr5m8 "Forking A Repository")
+![Forking a Repository](https://image.prntscr.com/image/xSr3fvroSk_LMBTQ3vg84w.png "Forking A Repository")
 
 
 2. Download a Text Editor
