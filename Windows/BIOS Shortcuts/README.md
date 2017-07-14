@@ -1,17 +1,17 @@
 # Table of Contents
 
 * [Acer](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#acer)
-* [ASUS](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#ASUS)
-* [Compaq](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Compaq)
-* [Dell](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Dell)
+* [ASUS](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#asus)
+* [Compaq](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#compaq)
+* [Dell](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#dell)
 
-* [Gateway](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Gateway)
-* [Hewlett-Packard](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Hewlett-Packard-(HP))
-* [IBM](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#IBM)
-* [Lenovo](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Lenovo)
-* [Samsung](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Samsung)
-* [Sony](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Sony)
-* [Toshiba](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Toshiba)
+* [Gateway](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#gateway)
+* [Hewlett-Packard](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#hewlett-packard-hp)
+* [IBM](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#ibm)
+* [Lenovo](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#lenovo)
+* [Samsung](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#samsung)
+* [Sony](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#sony)
+* [Toshiba](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#toshiba)
 
 
 
