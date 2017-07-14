@@ -1,3 +1,22 @@
+# Table of Contents
+
+* [Acer](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#acer)
+* [ASUS](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#ASUS)
+* [Compaq](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Compaq)
+* [Dell](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Dell)
+
+* [Gateway](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Gateway)
+* [Hewlett-Packard](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Hewlett-Packard-(HP))
+* [IBM](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#IBM)
+* [Lenovo](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Lenovo)
+* [Samsung](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Samsung)
+* [Sony](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Sony)
+* [Toshiba](https://github.com/chasen-bettinger/TSS-Resources/tree/master/Windows/BIOS%20Shortcuts#Toshiba)
+
+
+
+
+
 # Acer
 
 Apire, Power, Veriton, Extensa, Ferrari, TravelMate, Altos
@@ -26,18 +45,6 @@ XPS, Dimension, Inspiron, Latitude. OptiPlex, Precision, Vostro
     Older Dell desktops and laptops may instead use Ctrl+Alt+Enter or Del to enter BIOS.
     Older Dell laptops may use Fn+Esc or Fn+F1.
 
-# eMachines
-
-eMonster, eTower, eOne, S-Series, T-Series
-
-    Press Tab or Del while the eMachine logo displays on screen.
-    Other eMachine computers may use F2 to enter BIOS.
-
-# Fujitsu
-
-LifeBook, Esprimo, Amilo, Tablet, DeskPower
-
-    Press F2 once the Fujitsu logo appears.
 
 # Gateway
 
@@ -61,49 +68,18 @@ PC, XT, AT
     Press F1 immediately after powering on the computer.
     Older IBM computers (including some laptops) may utilize the F2 key for BIOS entry.
 
-# Lenovo (formerly IBM)
+# Lenovo
 
 ThinkPad, IdeaPad, 3000 Series, ThinkCentre, ThinkStation
 
     Press F1 or F2 after powering on the computer.
     Older Lenovo products allow access to BIOS using Ctrl+Alt+F3, Ctrl+Alt+Ins, or Fn+F1.
 
-# Micron (MPC Computers)
-
-ClientPro, TransPort
-
-    Press F1, F2 or Del immediately after powering on the PC.
-
-# NEC
-
-PowerMate, Versa, W-Series
-
-    Press F2 to enter the BIOS Setup.
-
-# Packard Bell
-
-8900 Series, 9000 Series, Pulsar, Platinum, EasyNote, imedia, iextreme
-
-    Press F1, F2, or Del to enter BIOS.
-
 # Samsung
 
 Series 'x' laptops
 
     Press F2 to start the BIOS setup utility.
-
-# Sharp
-
-Notebook Laptops, Actius UltraLite
-
-    Press F2 after the computer starts.
-    Some very old Sharp PCs require a Setup Diagnostics Disk to access BIOS.
-
-# Shuttle
-
-Glamor G-Series, D'vo, Prima P2-Series, Workstation, X Mini XPC, Surveillance
-
-    Press F2 or Del on startup.
 
 # Sony
 
