@@ -4,7 +4,8 @@ This repository contains a host of resources to be used when needing a recommend
 
 # Table of Contents
 
-* [How To Make A Contribution](https://github.com/chasen-bettinger/TSS-Resources#tss-resources)
+* [How To Make A Contribution](https://github.com/chasen-bettinger/TSS-Resources#how-to-make-a-contribution)
+* [No Time To Contribute?](https://github.com/chasen-bettinger/TSS-Resources#no-time-to-contribute)
 
 # How To Make A Contribution
 
@@ -63,3 +64,11 @@ In GitHub Desktop: File > Options > Accounts
 ![Create Pull Request](https://image.prntscr.com/image/_GrtnmPIQzOtDr-7MZ_aRg.png "Create Pull Request")
 
 ## Congratulations you have now contributed to this project!
+
+# No Time To Contribute?
+
+### Submit an issue!
+
+![Submit an Issue](https://image.prntscr.com/image/SFx5xPTYTKaXJwIKsAWs5g.png "Submit an Issue")
+
+![Submit Issue Button](https://image.prntscr.com/image/sz14dkaCTCmPWoDfF0GlDg.png "Submit Issue Button")
